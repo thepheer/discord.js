@@ -39,7 +39,7 @@
   "dependencies": {
     "@discordjs/collection": "^0.1.5",
     "abort-controller": "^3.0.0",
-    "form-data": "^3.0.0",
+    "form-data": "github:form-data/form-data#6dd8624",
     "node-fetch": "^2.6.0",
     "prism-media": "^1.2.0",
     "setimmediate": "^1.0.5",
